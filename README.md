@@ -35,10 +35,9 @@ while True:
 
 conn.close()
 server_socket.close()
-```
-~~~
-CLINENT.PY
+```~~~
 
+CLINENT.PY
 import socket
 
 host = '127.0.0.1'
@@ -57,9 +56,7 @@ print("Received from server:", data)
 client_socket.close()
 ~~~
 ## OUTPUT:
-
 ![alt text](clinent.png)
-
 ![alt text](server.png)
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
