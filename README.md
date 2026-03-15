@@ -11,7 +11,7 @@ Sockets Links.
 ## PROGRAM:
 ```
 SERVER.PY 
-      import socket
+import socket
 
 host = '127.0.0.1'
 port = 12345
@@ -58,12 +58,9 @@ client_socket.close()
 ~~~
 ## OUTPUT:
 
-SERVER:
-[text](server.py)
+![alt text](clinent.png)
 
-CLINENT:
-[text](clinent.py)
-
+![alt text](server.png)
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
