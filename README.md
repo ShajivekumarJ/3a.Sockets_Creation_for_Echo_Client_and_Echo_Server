@@ -35,8 +35,8 @@ while True:
 
 conn.close()
 server_socket.close()
-```~~~
-
+```
+~~~
 CLINENT.PY
 import socket
 
